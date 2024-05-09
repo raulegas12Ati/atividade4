@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../atividade5"
+		},
+		{
+			"path": "../Nova pasta"
+		},
+		{
+			"path": "../passa tempo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "atividade4",
+		"liveServer.settings.port": 5501
+	}
+}
